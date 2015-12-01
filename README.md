@@ -283,3 +283,5 @@ Part 1: [HTML Personal Page Lab](https://github.com/learn-co-curriculum/cssi-1.4
 #### Resources
 
 * [W3 Schools HTML](http://www.w3schools.com/html/default.asp)
+
+<a href='https://learn.co/lessons/cssi-1-html-student-walkthrough' data-visibility='hidden'>Learn.co resource</a>
